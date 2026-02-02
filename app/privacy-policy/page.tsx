@@ -70,10 +70,7 @@ export default function PrivacyPolicyPage() {
             The collected data is used to provide and improve app functionality.
           </p>
 
-          <h2 className="mt-6 text-xl font-semibold text-indigo-900">Children’s Privacy</h2>
-          <p className="mt-2 text-sm leading-6 text-slate-600">
-            This app does not target children under the age of 13.
-          </p>
+          
 
           <h2 className="mt-6 text-xl font-semibold text-indigo-900">Contact Us</h2>
           <p className="mt-2 text-sm leading-6 text-slate-600">Email: info@lyseibug.com</p>
