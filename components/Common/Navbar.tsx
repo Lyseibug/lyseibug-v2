@@ -23,7 +23,7 @@ export default function Navbar() {
 
         {/* Desktop nav */}
         <nav className="hidden items-center gap-8 md:flex">
-          {NAV_ITEMS.slice(0, 5).map((item) => (
+          {NAV_ITEMS.map((item) => (
             <Link
               key={item.href}
               href={item.href}

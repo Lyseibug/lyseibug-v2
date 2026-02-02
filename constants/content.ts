@@ -9,6 +9,7 @@ export const NAV_ITEMS: NavItem[] = [
   // { label: "Case studies", href: "/cases" },
   { label: "FAQs", href: "/faq" },
   { label: "Contact", href: "/contact" },
+  { label: "Privacy Policy", href: "/privacy-policy" },
 ];
 
 export const NAV_TEXT = {
@@ -133,6 +134,7 @@ export const FOOTER_CONTENT = {
         { label: "Services", href: "/services" },
         // { label: "Case studies", href: "/cases" },
         { label: "FAQs", href: "/faq" },
+        { label: "Privacy Policy", href: "/privacy-policy" },
         { label: "Contact", href: "/contact" },
       ],
     },
@@ -140,6 +142,7 @@ export const FOOTER_CONTENT = {
       title: "Utility",
       links: [
         { label: "FAQs", href: "/faq" },
+        { label: "Privacy Policy", href: "/privacy-policy" },
       ],
     },
     {
